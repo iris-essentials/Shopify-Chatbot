@@ -2,10 +2,11 @@
   "name": "shopify-chatbot",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "scripts": {
+    "start": "node server.js", 
+    "test": "echo \"Error: no test specified\" && exit 1" 
   },
-  "keywords": [],
+   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "An intelligent chatbot solution for Shopify stores that provides real-time customer support and product information using AI technology.",
